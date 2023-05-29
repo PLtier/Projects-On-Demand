@@ -17,6 +17,8 @@ You simply need to sit straight in front of the computer. Camera should target y
 * Javascript & Python
 * Tensorflow.js, MV3, Tensorflow/Keras incl. Movenet Model
 * CUDA
+
+
 Other: ParcelJS 2.0, conda, matplotlib, numpy, sklearn
 ### Paper
 
