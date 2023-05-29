@@ -13,9 +13,11 @@ How to use it?
 Prerequisites are being in well lit area and not wearing black, oversized hoodies or jumpers etc. 
 You simply need to sit straight in front of the computer. Camera should target your both shoulders and head. Also, give some time for an extension to warm-up - it should start working within 10 seconds.
 
-### Stack
-* Vanilla Javascript & Python
+### Main Stack/Technology
+* Javascript & Python
 * Tensorflow.js, MV3, Tensorflow/Keras incl. Movenet Model
+* CUDA
+Other: ParcelJS 2.0, conda, matplotlib, numpy, sklearn
 ### Paper
 
 I can share with you my kind of a scientific work - a paper I created for scientific competition [EUCYS](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/eucys_en) - it's like an engineering dissertation, as one reviewer mentioned. There I lay out all the inner workings of extension part and training part. There I bring up:
