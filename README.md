@@ -1,5 +1,9 @@
 # Projects-On-Demand
 It's a repo listing projects I haven't open-sourced (or haven't decided yet) which I may share with you after contacting me.
+It contributed to some other projects:
+1. StraightenUp AI (founder)
+2. WiecejDobra.pl - https://www.wiecejdobra.pl/. Written in React.js with Typescript. (wrote a few components)
+3. Internal ticket system of Yudaya SL.
 
 ### Straighten Up Chrome Web Extension.
 [Check it on chrome Web Store](https://chrome.google.com/webstore/detail/straighten-up/nfhoegpkonllcaghgmhdmcpme****bmocokf?hl=en-GB&authuser=0)
